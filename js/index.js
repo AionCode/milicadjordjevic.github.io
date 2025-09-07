@@ -1,8 +1,3 @@
-import { gsap } from "gsap";
-import { SplitText } from "gsap/SplitText";
-
-gsap.registerPlugin(SplitText);
-
 import { preloadImages } from './utils.js'; // Import utility function to preload images
 
 gsap.registerPlugin(ScrollTrigger); // Register GSAP's ScrollTrigger plugin
