@@ -179,7 +179,7 @@ main {
   margin-bottom: 30vh;
   grid-auto-rows: 1fr;
   gap: 1.5rem;
-  background: linear-gradient(to bottom, var(--color-bg), rgba(0,0,0,0.1), var(--color-bg)), url(/img/milica_djordjevic.png) no-repeat 50% -10%;
+  background: linear-gradient(to bottom, var(--color-bg), rgba(0,0,0,0.1), var(--color-bg)), url(/assets/img/milica_djordjevic.png) no-repeat 50% -10%;
   background-size: cover;
   
 }
